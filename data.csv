@@ -1,0 +1,784 @@
+Nombre de la observacion,ID de la observacion,Nombre cientifico,ID del taxon,Fecha de la observacion,Fecha de creacion,Nombre de usuario,ID de usuario,Longitud,Latitud,Lugar de la observacion,Link a la página de Minka
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
+Gavina corsa,423902,Ichthyaetus audouinii,158468,2025/03/03 12:41 PM,2025-03-06,mediambient_ajelprat,15,2.0971045169,41.2841159027,Pineda de can Camins,https://minka-sdg.org/observations/423902
+Barqueta de Sant Pere,423901,Velella velella,253561,2025/03/03 10:48 AM,2025-03-06,mediambient_ajelprat,15,2.0864103975,41.2805112091,Platja de la Roberta,https://minka-sdg.org/observations/423901
+Gafarró,423893,Serinus serinus,249670,2025/02/27 11:36 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423893
+Serp verda,423892,Malpolon monspessulanus,245783,2025/02/27 11:39 AM,2025-03-06,mediambient_ajelprat,15,2.124718812,41.2962531784,Desembocadura de la Bunyola,https://minka-sdg.org/observations/423892
+Corriol camanegre,423880,Charadrius alexandrinus,250490,2025/02/26 12:11 PM,2025-03-06,mediambient_ajelprat,15,2.081797114,41.2791486027,Platja del Remolar,https://minka-sdg.org/observations/423880
+evening primroses,423874,Oenothera,36347,2025/02/21 12:00 PM,2025-03-06,mediambient_ajelprat,15,2.0808093243,41.2788266509,Platja del Remolar,https://minka-sdg.org/observations/423874
+Gavià argentat de potes grogues,423611,Larus michahellis,243187,2025/03/03 8:11 AM,2025-03-05,amb_platges,1239,2.0353121613,41.2687123531,"Barcelona, España",https://minka-sdg.org/observations/423611
+Western Montpellier Snake,422888,Malpolon monspessulanus,245783,2025/02/26 12:27 PM,2025-03-03,amb_platges,1239,2.0955,41.2839277778,"Barcelona, España",https://minka-sdg.org/observations/422888
+Green Iberian Wall Lizard,422887,Podarcis hispanicus,242764,2025/02/26 12:13 PM,2025-03-03,amb_platges,1239,2.2765111111,41.4643666667,"Barcelona, España",https://minka-sdg.org/observations/422887
+Glossy Ibis,421185,Plegadis falcinellus,242634,2025/02/24 11:03 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421185
+Common European Greenbottle Fly,421184,Lucilia sericata,245030,2025/02/24 11:06 AM,2025-02-24,mediambient_ajelprat,15,2.0854266287,41.2804808956,Platja de la Roberta,https://minka-sdg.org/observations/421184
+By-the-wind Sailor,421178,Velella velella,253561,2025/02/21 11:50 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421178
+Snowy Plover,421177,Charadrius alexandrinus,250490,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421177
+Sanderling,421176,Calidris alba,248112,2025/02/21 11:43 AM,2025-02-24,mediambient_ajelprat,15,2.0799053391,41.2786107008,Platja del Remolar,https://minka-sdg.org/observations/421176
+Pine Processionary-moth,421158,Thaumetopoea pityocampa,251075,2025/02/11 1:02 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421158
+Audouin's Gull,421157,Ichthyaetus audouinii,158468,2025/02/11 1:12 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421157
+Eurasian Kestrel,421156,Falco tinnunculus,248606,2025/02/11 12:42 PM,2025-02-24,mediambient_ajelprat,15,2.0861073753,41.2807548833,Platja de la Roberta,https://minka-sdg.org/observations/421156
+Raja,421022,Raja,11990,2025/02/21 11:48 AM,2025-02-24,mediambient_ajelprat,15,2.0786772604,41.2782370003,Platja del Remolar,https://minka-sdg.org/observations/421022
+European Stonechat,421021,Saxicola rubicola,247994,2025/02/21 12:48 PM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421021
+Eurasian Kestrel,421019,Falco tinnunculus,248606,2025/02/21 11:05 AM,2025-02-24,mediambient_ajelprat,15,2.0823250647,41.2794877089,Platja de la Roberta,https://minka-sdg.org/observations/421019
+Audouin's Gull,421017,Ichthyaetus audouinii,158468,2025/02/21 10:51 AM,2025-02-24,mediambient_ajelprat,15,2.1030004793,41.286202467,Platja de can Camins,https://minka-sdg.org/observations/421017
+Audouin's Gull,420956,Ichthyaetus audouinii,158468,2025/02/18 11:36 AM,2025-02-24,mediambient_ajelprat,15,2.10030734,41.2852950805,Platja de can Camins,https://minka-sdg.org/observations/420956
+Audouin's Gull,420951,Ichthyaetus audouinii,158468,2025/02/14 10:58 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420951
+Snowy Plover,420950,Charadrius alexandrinus,250490,2025/02/14 10:53 AM,2025-02-24,mediambient_ajelprat,15,2.0794849964,41.2786201753,Platja del Remolar,https://minka-sdg.org/observations/420950
+Catalonian Wall Lizard,420949,Podarcis liolepis,254136,2025/02/14 12:00 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420949
+Booted Eagle,420948,Hieraaetus pennatus,251635,2025/02/14 12:02 PM,2025-02-24,mediambient_ajelprat,15,2.0949850477,41.2833577824,Platja de can Camins,https://minka-sdg.org/observations/420948
+European Common Cuttlefish,420937,Sepia officinalis,34855,2025/02/10 11:34 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420937
+Black Redstart,420936,Phoenicurus ochruros,253189,2025/02/10 12:11 PM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420936
+White Wagtail,420935,Motacilla alba,247528,2025/02/10 11:53 AM,2025-02-24,mediambient_ajelprat,15,2.0841910799,41.2798202,Platja de la Roberta,https://minka-sdg.org/observations/420935
