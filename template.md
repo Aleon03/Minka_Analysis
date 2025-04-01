@@ -17,7 +17,7 @@ Gráficos por observaciones, observadores, identificadores y especies
 4. Especies vistas por primera vez en el proyecto desde el último informe (últimos 30 días)
 
 5. Mapa calor para densidad de observaciones
-https://python-visualization.github.io/folium/latest/
+https://python-visualization.gitpiphub.io/folium/latest/
 https://python-visualization.github.io/folium/latest/user_guide/plugins/heatmap.html
 https://github.com/eosc-cos4cloud/mecoda-minka/blob/master/src/mecoda_minka/views.py
 
