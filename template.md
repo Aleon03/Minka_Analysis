@@ -7,7 +7,7 @@
 1.1. número de observaciones, número de observadores, identificadores y especies
 1.2. variación respecto al mes anterior
 
-2. Evolución mensual de las métriecas principales
+2. Evolución mensual de las métricas principales
 Gráficos por observaciones, observadores, idntificadores y especies
 
 3. Taxonomías
