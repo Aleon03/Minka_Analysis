@@ -1,5 +1,5 @@
-Metric,Last Month,Current Month
-Observations,578,392
-Observers,42,36
-Identifiers,26,23
-Species,202,146
+metric,number_today,number_in_last_month
+observations,4566,193
+observers,130,10
+identifiers,67,12
+species,597,86

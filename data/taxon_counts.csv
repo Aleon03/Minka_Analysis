@@ -1,0 +1,1540 @@
+taxon_rank,taxon_name,count
+kingdom,Animalia,3114
+kingdom,Plantae,1330
+kingdom,Chromista,115
+kingdom,Fungi,7
+phylum,Tracheophyta,1215
+phylum,Mollusca,868
+phylum,Chordata,858
+phylum,Arthropoda,844
+phylum,Cnidaria,325
+phylum,Echinodermata,158
+phylum,Ochrophyta,112
+phylum,Rhodophyta,96
+phylum,Bryozoa,38
+phylum,Chlorophyta,19
+phylum,Annelida,16
+phylum,Porifera,7
+phylum,Basidiomycota,6
+phylum,Radiozoa,3
+phylum,Zygomycota,1
+class,Magnoliopsida,868
+class,Aves,743
+class,Insecta,663
+class,Bivalvia,519
+class,Liliopsida,338
+class,Gastropoda,237
+class,Echinoidea,140
+class,Hydrozoa,125
+class,Scyphozoa,119
+class,Phaeophyceae,112
+class,Cephalopoda,112
+class,Malacostraca,111
+class,Florideophyceae,96
+class,Anthozoa,81
+class,Thecostraca,57
+class,Reptilia,50
+class,Gymnolaemata,38
+class,Elasmobranchii,27
+class,Mammalia,25
+class,Polychaeta,16
+class,Ulvophyceae,16
+class,Ascidiacea,13
+class,Arachnida,13
+class,Pinopsida,9
+class,Holothuroidea,9
+class,Asteroidea,9
+class,Demospongiae,7
+class,Agaricomycetes,6
+class,Bryopsidophyceae,3
+class,Polycystina,3
+class,Mucoromycetes,1
+order,Ciconiiformes,438
+order,Passeriformes,240
+order,Lepidoptera,216
+order,Asterales,176
+order,Cardiida,175
+order,Venerida,167
+order,Hymenoptera,146
+order,Asparagales,143
+order,Apiales,143
+order,Poales,131
+order,Anthoathecata,114
+order,Decapoda,107
+order,Capparales,106
+order,Neogastropoda,105
+order,Fabales,103
+order,Orthoptera,102
+order,Caryophyllales,100
+order,Coleoptera,96
+order,Dictyotales,90
+order,Sepiida,86
+order,Corallinales,85
+order,Camarodonta,82
+order,Actiniaria,69
+order,Myrtales,62
+order,Arcida,61
+order,Rhizostomeae,61
+order,Semaeostomeae,58
+order,Alismatales,57
+order,Mytilida,55
+order,Patellogastropoda,49
+order,Squamata,48
+order,Solanales,47
+order,Arbacioida,47
+order,Balanomorpha,41
+order,Odonata,39
+order,Hemiptera,33
+order,Littorinimorpha,32
+order,Cheilostomatida,27
+order,Diptera,26
+order,Adapedonta,26
+order,Malpighiales,24
+order,Octopoda,22
+order,Lamiales,18
+order,Scalpellomorpha,16
+order,Sabellida,16
+order,Scytosiphonales,16
+order,Ulvales,16
+order,Polygonales,15
+order,Ostreida,14
+order,Carcharhiniformes,14
+order,Stylommatophora,13
+order,Araneae,13
+order,Gruiformes,12
+order,Anseriformes,12
+order,Pectinida,11
+order,Columbiformes,11
+order,Scrophulariales,11
+order,Ctenostomatida,11
+order,Scleractinia,11
+order,Spatangoida,11
+order,Bonnemaisoniales,10
+order,Violales,10
+order,Rajiformes,10
+order,Lagomorpha,10
+order,Rosales,9
+order,Pinales,9
+order,Plantaginales,9
+order,Pteropoda,9
+order,Leptothecata,9
+order,Ostreoida,9
+order,Upupiformes,8
+order,Carnivora,8
+order,Charadriiformes,8
+order,Cetacea,7
+order,Enterogona,7
+order,Holothuriida,7
+order,Malvales,6
+order,Pleurogona,6
+order,Nudibranchia,6
+order,Forcipulatida,6
+order,Geraniales,6
+order,Psittaciformes,6
+order,Trochida,5
+order,Papaverales,5
+order,Apodiformes,5
+order,Rubiales,5
+order,Sapindales,5
+order,Sphacelariales,5
+order,Arecales,4
+order,Dipsacales,4
+order,Dictyoceratida,4
+order,Agaricales,4
+order,Hadromerida,3
+order,Mantodea,3
+order,Bryopsidales,3
+order,Coraciiformes,3
+order,Isopoda,3
+order,Liliales,3
+order,Nassellaria,3
+order,Testudines,2
+order,Myopsida,2
+order,Boletales,2
+order,Gentianales,2
+order,Hexanchiformes,2
+order,Lepetellida,2
+order,Apodida,2
+order,Siphonophorae,2
+order,Paxillosida,2
+order,Aplysiida,2
+order,Neuroptera,2
+order,Pennatulacea,1
+order,Urticales,1
+order,Pleurobranchida,1
+order,Hildenbrandiales,1
+order,Squaliformes,1
+order,Cutleriales,1
+order,Salicales,1
+order,Mysida,1
+order,Spinulosida,1
+order,Mucorales,1
+order,Lucinida,1
+family,Asteraceae,176
+family,Laridae,145
+family,Apiaceae,143
+family,Mactridae,126
+family,Cardiidae,119
+family,Brassicaceae,106
+family,Fabaceae,103
+family,Poaceae,102
+family,Porpitidae,99
+family,Muricidae,98
+family,Dictyotaceae,90
+family,Acrididae,90
+family,Sepiidae,86
+family,Lithophyllaceae,85
+family,Muscicapidae,85
+family,Parechinidae,82
+family,Phalacrocoracidae,75
+family,Asparagaceae,73
+family,Amaryllidaceae,63
+family,Pelagiidae,55
+family,Mytilidae,55
+family,Onagraceae,54
+family,Posidoniaceae,53
+family,Glycymerididae,53
+family,Actiniidae,51
+family,Pieridae,49
+family,Patellidae,49
+family,Falconidae,48
+family,Arbaciidae,47
+family,Donacidae,47
+family,Rhizostomatidae,45
+family,Noctuidae,44
+family,Apidae,43
+family,Charadriidae,42
+family,Nymphalidae,41
+family,Convolvulaceae,40
+family,Aizoaceae,38
+family,Veneridae,38
+family,Balanidae,37
+family,Fringillidae,34
+family,Scolopacidae,33
+family,Lacertidae,32
+family,Libellulidae,32
+family,Lycaenidae,32
+family,Accipitridae,32
+family,Motacillidae,30
+family,Grapsidae,29
+family,Chenopodiaceae,28
+family,Portunidae,28
+family,Passeridae,26
+family,Caryophyllaceae,25
+family,Schizoporellidae,25
+family,Ardeidae,25
+family,Vespidae,24
+family,Euphorbiaceae,24
+family,Sylviidae,23
+family,Pharidae,23
+family,Octopodidae,22
+family,Carabidae,21
+family,Tenebrionidae,19
+family,Cyperaceae,18
+family,Pentatomidae,18
+family,Eriphiidae,17
+family,Ulvaceae,16
+family,Sabellidae,16
+family,Lepadidae,16
+family,Cepheidae,16
+family,Aiptasiidae,16
+family,Scytosiphonaceae,16
+family,Sphecidae,16
+family,Pennariidae,15
+family,Polygonaceae,15
+family,Megachilidae,15
+family,Scyliorhinidae,14
+family,Crambidae,13
+family,Naticidae,13
+family,Formicidae,13
+family,Coccinellidae,13
+family,Verbenaceae,13
+family,Anatidae,12
+family,Syrphidae,12
+family,Helicidae,12
+family,Podicipedidae,12
+family,Eumenidae,12
+family,Rallidae,12
+family,Vesiculariidae,11
+family,Aporrhaidae,11
+family,Ostreidae,11
+family,Loveniidae,11
+family,Columbidae,11
+family,Oculinidae,11
+family,Juncaceae,11
+family,Threskiornithidae,11
+family,Pectinidae,11
+family,Hesperiidae,11
+family,Gekkonidae,10
+family,Leporidae,10
+family,Crabronidae,10
+family,Myoporaceae,10
+family,Bonnemaisoniaceae,10
+family,Corvidae,10
+family,Rajidae,10
+family,Pyrgomorphidae,9
+family,Cymbuliidae,9
+family,Hirundinidae,9
+family,Pinaceae,9
+family,Pirimelidae,9
+family,Plantaginaceae,9
+family,Anomiidae,8
+family,Diogenidae,8
+family,Arcidae,8
+family,Upupidae,8
+family,Sphingidae,8
+family,Thymelaeaceae,8
+family,Recurvirostridae,8
+family,Felidae,7
+family,Xanthorrhoeaceae,7
+family,Delphinidae,7
+family,Holothuriidae,7
+family,Chrysomelidae,7
+family,Tellinidae,7
+family,Percnidae,7
+family,Zygaenidae,7
+family,Pittosporaceae,6
+family,Alaudidae,6
+family,Psittacidae,6
+family,Alcidae,6
+family,Colubridae,6
+family,Pyrrhocoridae,6
+family,Cetoniidae,6
+family,Malvaceae,6
+family,Oedemeridae,6
+family,Asteriidae,6
+family,Nassariidae,6
+family,Tamaricaceae,6
+family,Thomisidae,6
+family,Sturnidae,6
+family,Ascidiidae,5
+family,Cerithiidae,5
+family,Cydnidae,5
+family,Apodidae,5
+family,Boraginaceae,5
+family,Styelidae,5
+family,Melolonthidae,5
+family,Oxalidaceae,5
+family,Dynastidae,5
+family,Laniidae,5
+family,Aeshnidae,5
+family,Dasytidae,5
+family,Rubiaceae,5
+family,Scoliidae,5
+family,Trochidae,5
+family,Stypocaulaceae,5
+family,Aequoreidae,5
+family,Turritellidae,5
+family,Papaveraceae,4
+family,Phoenicopteridae,4
+family,Arecaceae,4
+family,Calliphoridae,4
+family,Chromodorididae,4
+family,Cuscutaceae,4
+family,Bombyliidae,4
+family,Chthamalidae,4
+family,Cymodoceaceae,4
+family,Upogebiidae,4
+family,Irciniidae,4
+family,Dipsacaceae,4
+family,Papilionidae,4
+family,Cassidae,4
+family,Solanaceae,3
+family,Iridaceae,3
+family,Janthinidae,3
+family,Ulmaridae,3
+family,Geometridae,3
+family,Aglaopheniidae,3
+family,Lycosidae,3
+family,Cactaceae,3
+family,Codiaceae,3
+family,Solenidae,3
+family,Anacardiaceae,3
+family,Amaranthaceae,3
+family,Cistaceae,3
+family,Collozoidae,3
+family,Clionaidae,3
+family,Synaptidae,2
+family,Cantharidae,2
+family,Pinnidae,2
+family,Sagartiidae,2
+family,Coraciidae,2
+family,Rosaceae,2
+family,Eremiaphilidae,2
+family,Watersiporidae,2
+family,Arctiidae,2
+family,Ommastrephidae,2
+family,Hexanchidae,2
+family,Procellariidae,2
+family,Suillaceae,2
+family,Loliginidae,2
+family,Notodontidae,2
+family,Astropectinidae,2
+family,Tricholomataceae,2
+family,Coenagrionidae,2
+family,Estrildidae,2
+family,Ranellidae,2
+family,Emydidae,2
+family,Sarcophagidae,2
+family,Littorinidae,2
+family,Epialtidae,2
+family,Myrmeleontidae,2
+family,Mutillidae,2
+family,Cerambycidae,2
+family,Fissurellidae,2
+family,Asclepiadaceae,2
+family,Didemnidae,2
+family,Portulacaceae,2
+family,Lampyridae,2
+family,Argidae,2
+family,Zygophyllaceae,2
+family,Aplysiidae,2
+family,Gryllidae,2
+family,Pteriidae,1
+family,Cancellariidae,1
+family,Echinasteridae,1
+family,Mesodesmatidae,1
+family,Cisticolidae,1
+family,Lucinidae,1
+family,Alcedinidae,1
+family,Moraceae,1
+family,Emberizidae,1
+family,Sulidae,1
+family,Aphididae,1
+family,Ichneumonidae,1
+family,Veretillidae,1
+family,Oleaceae,1
+family,Paridae,1
+family,Fumariaceae,1
+family,Geraniaceae,1
+family,Therevidae,1
+family,Cutleriaceae,1
+family,Mysidae,1
+family,Aegithalidae,1
+family,Solecurtidae,1
+family,Tachinidae,1
+family,Amanitaceae,1
+family,Agaricaceae,1
+family,Ulidiidae,1
+family,Mucoraceae,1
+family,Dryophthoridae,1
+family,Hildenbrandiaceae,1
+family,Chamidae,1
+family,Andrenidae,1
+family,Dysderidae,1
+family,Cicadidae,1
+family,Pleurobranchidae,1
+family,Rhiniidae,1
+family,Pompilidae,1
+family,Canidae,1
+family,Facelinidae,1
+family,Campanulariidae,1
+family,Idoteidae,1
+family,Zodariidae,1
+family,Polybiidae,1
+family,Rutelidae,1
+family,Lygaeidae,1
+family,Burhinidae,1
+family,Ligiidae,1
+family,Scarabaeidae,1
+family,Glareolidae,1
+family,Hippopodiidae,1
+family,Spondylidae,1
+family,Porcellanidae,1
+family,Semelidae,1
+family,Coreidae,1
+family,Tettigoniidae,1
+family,Corbiculidae,1
+family,Palaemonidae,1
+family,Cucurbitaceae,1
+family,Mantidae,1
+family,Crassulaceae,1
+family,Centrophoridae,1
+family,Nyctaginaceae,1
+family,Aeolidiidae,1
+family,Araneidae,1
+family,Cymothoidae,1
+family,Diphyidae,1
+family,Pyuridae,1
+family,Halictidae,1
+family,Salicaceae,1
+family,Hygromiidae,1
+family,Pisauridae,1
+genus,Acanthocardia,116
+genus,Spisula,111
+genus,Velella,99
+genus,Stramonita,91
+genus,Ichthyaetus,87
+genus,Sepia,84
+genus,Paracentrotus,82
+genus,Echinophora,75
+genus,Pancratium,63
+genus,Cakile,57
+genus,Pelagia,55
+genus,Mytilus,54
+genus,Oenothera,54
+genus,Glycymeris,53
+genus,Posidonia,53
+genus,Medicago,52
+genus,Ellisolandia,49
+genus,Patella,49
+genus,Falco,48
+genus,Arbacia,47
+genus,Agave,47
+genus,Dictyota,47
+genus,Donax,47
+genus,Rhizostoma,45
+genus,Eryngium,45
+genus,Gazania,44
+genus,Phoenicurus,43
+genus,Phalacrocorax,43
+genus,Anemonia,43
+genus,Charadrius,39
+genus,Calystegia,38
+genus,Carpobrotus,38
+genus,Padina,36
+genus,Perforatus,35
+genus,Lotus,34
+genus,Gulosus,32
+genus,Chamelea,32
+genus,Larus,32
+genus,Ammophila,31
+genus,Pachygrapsus,29
+genus,Centaurea,28
+genus,Brithys,28
+genus,Arctotheca,28
+genus,Xanthium,27
+genus,Passer,26
+genus,Schizoporella,25
+genus,Heteracris,25
+genus,Ensis,23
+genus,Octopus,22
+genus,Sympetrum,22
+genus,Buteo,22
+genus,Motacilla,21
+genus,Podarcis,21
+genus,Sphingonotus,20
+genus,Vanessa,20
+genus,Salsola,20
+genus,Calidris,19
+genus,Pontia,19
+genus,Erithacus,19
+genus,Crithmum,19
+genus,Apis,19
+genus,Euphorbia,19
+genus,Saxicola,18
+genus,Lithophyllum,18
+genus,Yucca,17
+genus,Eriphia,17
+genus,Pieris,16
+genus,Dittrichia,16
+genus,Jania,16
+genus,Colpomenia,16
+genus,Lepas,16
+genus,Ulva,16
+genus,Cotylorhiza,16
+genus,Branchiomma,16
+genus,Aiptasia,16
+genus,Bombus,15
+genus,Malcolmia,15
+genus,Rhodanthidium,15
+genus,Callinectes,15
+genus,Polygonum,15
+genus,Pennaria,15
+genus,Mactra,15
+genus,Thalasseus,15
+genus,Egretta,14
+genus,Scyliorhinus,14
+genus,Arundo,14
+genus,Graphosoma,14
+genus,Cyperus,14
+genus,Chorthippus,13
+genus,Polyommatus,13
+genus,Lasiommata,13
+genus,Lantana,13
+genus,Sporobolus,13
+genus,Lophyra,13
+genus,Vespa,13
+genus,Ononis,13
+genus,Cenchrus,13
+genus,Paronychia,13
+genus,Silene,12
+genus,Curruca,12
+genus,Erodius,12
+genus,Carduelis,12
+genus,Amathia,11
+genus,Oculina,11
+genus,Juncus,11
+genus,Aporrhais,11
+genus,Echinocardium,11
+genus,Psammodromus,11
+genus,Plegadis,11
+genus,Coccinella,11
+genus,Columba,11
+genus,Tachybaptus,11
+genus,Ardea,10
+genus,Serinus,10
+genus,Carcinus,10
+genus,Raja,10
+genus,Tarentola,10
+genus,Colias,10
+genus,Leptotes,10
+genus,Asparagopsis,10
+genus,Pica,10
+genus,Oryctolagus,10
+genus,Myoporum,10
+genus,Ostrea,10
+genus,Fulica,9
+genus,Pirimela,9
+genus,Anthus,9
+genus,Pinus,9
+genus,Chloris,9
+genus,Pyrgomorpha,9
+genus,Cymbulia,9
+genus,Acrotylus,9
+genus,Vespula,9
+genus,Matthiola,9
+genus,Plantago,9
+genus,Asparagus,9
+genus,Cortaderia,9
+genus,Podalonia,8
+genus,Upupa,8
+genus,Danaus,8
+genus,Polistes,8
+genus,Ambrosia,8
+genus,Naticarius,8
+genus,Himantopus,8
+genus,Theba,8
+genus,Thymelaea,8
+genus,Actinia,8
+genus,Phylloscopus,8
+genus,Anomia,8
+genus,Pecten,8
+genus,Elymus,8
+genus,Sonchus,8
+genus,Bembix,8
+genus,Scarites,8
+genus,Felis,7
+genus,Xylocopa,7
+genus,Helicoverpa,7
+genus,Holothuria,7
+genus,Chroicocephalus,7
+genus,Percnon,7
+genus,Zygaena,7
+genus,Arca,7
+genus,Taonia,7
+genus,Tapinoma,7
+genus,Helichrysum,6
+genus,Urospermum,6
+genus,Alca,6
+genus,Galerida,6
+genus,Oedipoda,6
+genus,Oedemera,6
+genus,Malpolon,6
+genus,Myiopsitta,6
+genus,Gegenes,6
+genus,Malva,6
+genus,Pittosporum,6
+genus,Coscinasterias,6
+genus,Pyrrhocoris,6
+genus,Circus,6
+genus,Tamarix,6
+genus,Tritia,6
+genus,Asphodelus,6
+genus,Sturnus,6
+genus,Tringa,6
+genus,Spoladea,5
+genus,Anax,5
+genus,Trithemis,5
+genus,Lanius,5
+genus,Carcharodus,5
+genus,Botrylloides,5
+genus,Psilothrix,5
+genus,Anser,5
+genus,Apus,5
+genus,Hyles,5
+genus,Marcus-kochia,5
+genus,Callista,5
+genus,Phorcus,5
+genus,Crucianella,5
+genus,Echium,5
+genus,Actitis,5
+genus,Aequorea,5
+genus,Oxalis,5
+genus,Halopteris,5
+genus,Phallusia,5
+genus,Hirundo,5
+genus,Neverita,5
+genus,Aiolopus,5
+genus,Bolinus,4
+genus,Semicassis,4
+genus,Upogebia,4
+genus,Lampides,4
+genus,Cydnus,4
+genus,Phoenicopterus,4
+genus,Hymenoplia,4
+genus,Nomophila,4
+genus,Peronaea,4
+genus,Gonepteryx,4
+genus,Eobania,4
+genus,Cymodocea,4
+genus,Cuscuta,4
+genus,Felimare,4
+genus,Scabiosa,4
+genus,Chthamalus,4
+genus,Turritellinella,4
+genus,Sarcotragus,4
+genus,Cerithium,4
+genus,Synema,4
+genus,Tursiops,4
+genus,Lagurus,3
+genus,Lucilia,3
+genus,Anacridium,3
+genus,Solen,3
+genus,Linaria,3
+genus,Aurelia,3
+genus,Tentyria,3
+genus,Autographa,3
+genus,Stenella,3
+genus,Salicornia,3
+genus,Solanum,3
+genus,Codium,3
+genus,Collozoum,3
+genus,Coptocephala,3
+genus,Colpa,3
+genus,Clibanarius,3
+genus,Cistus,3
+genus,Portumnus,3
+genus,Chrysotoxum,3
+genus,Cliona,3
+genus,Rhynchium,3
+genus,Calliptamus,3
+genus,Scirpoides,3
+genus,Calcinus,3
+genus,Ricinus,3
+genus,Pistacia,3
+genus,Crocothemis,3
+genus,Oryctes,3
+genus,Eurydema,3
+genus,Papilio,3
+genus,Oxythyrea,3
+genus,Freesia,3
+genus,Eristalis,3
+genus,Ficedula,3
+genus,Phoenix,3
+genus,Numenius,3
+genus,Gallinula,3
+genus,Hogna,3
+genus,Mimachlamys,3
+genus,Mareca,3
+genus,Janthina,3
+genus,Aglaophenia,3
+genus,Acrida,3
+genus,Acrocephalus,2
+genus,Villa,2
+genus,Watersipora,2
+genus,Xysticus,2
+genus,Utetheisa,2
+genus,Megascolia,2
+genus,Melanostoma,2
+genus,Messor,2
+genus,Mercurialis,2
+genus,Ischnura,2
+genus,Loligo,2
+genus,Macronemurus,2
+genus,Iris,2
+genus,Macroglossum,2
+genus,Nyctophila,2
+genus,Gryllus,2
+genus,Oestergrenia,2
+genus,Glaucium,2
+genus,Hexaplex,2
+genus,Muscicapa,2
+genus,Isodontia,2
+genus,Opatrum,2
+genus,Harmonia,2
+genus,Orthetrum,2
+genus,Opuntia,2
+genus,Eyprepocnemis,2
+genus,Fissurella,2
+genus,Papaver,2
+genus,Grammodes,2
+genus,Hieraaetus,2
+genus,Diogenes,2
+genus,Eristalinus,2
+genus,Pandion,2
+genus,Estrilda,2
+genus,Sceliphron,2
+genus,Retama,2
+genus,Cereus,2
+genus,Pseudorlaya,2
+genus,Ptyonoprogne,2
+genus,Rhagonycha,2
+genus,Cerastoderma,2
+genus,Rhombosepion,2
+genus,Rhodometra,2
+genus,Pluvialis,2
+genus,Chlorophorus,2
+genus,Daucus,2
+genus,Delichon,2
+genus,Convolvulus,2
+genus,Coracias,2
+genus,Portulaca,2
+genus,Cynanchum,2
+genus,Pinna,2
+genus,Phyllognathus,2
+genus,Bromus,2
+genus,Blaps,2
+genus,Bosemprella,2
+genus,Atriplex,2
+genus,Balanus,2
+genus,Astropecten,2
+genus,Suaeda,2
+genus,Calamagrostis,2
+genus,Aythya,2
+genus,Suillus,2
+genus,Tribulus,2
+genus,Callophrys,2
+genus,Sarcophaga,2
+genus,Thaumetopoea,2
+genus,Tadorna,2
+genus,Bassia,2
+genus,Arge,2
+genus,Amphiroa,2
+genus,Tropinota,2
+genus,Aplysia,2
+genus,Todarodes,2
+genus,Trachemys,2
+genus,Acanthonyx,2
+genus,Herina,1
+genus,Limerodops,1
+genus,Limacella,1
+genus,Ligia,1
+genus,Linepithema,1
+genus,Nemka,1
+genus,Macrolenes,1
+genus,Macroscytus,1
+genus,Magallana,1
+genus,Idotea,1
+genus,Iphiclides,1
+genus,Hydroprogne,1
+genus,Hyparrhenia,1
+genus,Hydrocoloeus,1
+genus,Hordeum,1
+genus,Melilotus,1
+genus,Microphthalma,1
+genus,Mantis,1
+genus,Melarhaphe,1
+genus,Liocarcinus,1
+genus,Loripes,1
+genus,Lycaena,1
+genus,Lissoclinum,1
+genus,Lithophaga,1
+genus,Leptomysis,1
+genus,Lepista,1
+genus,Lasius,1
+genus,Laevicardium,1
+genus,Washingtonia,1
+genus,Vulpes,1
+genus,Vanellus,1
+genus,Venus,1
+genus,Veretillum,1
+genus,Agaricus,1
+genus,Aetheorhiza,1
+genus,Aegithalos,1
+genus,Aeluropus,1
+genus,Agrotis,1
+genus,Aetheorrhiza,1
+genus,Agrius,1
+genus,Achurum,1
+genus,Phleum,1
+genus,Phaneroptera,1
+genus,Parus,1
+genus,Parabatozonus,1
+genus,Eucera,1
+genus,Eumenes,1
+genus,Erodium,1
+genus,Erucastrum,1
+genus,Galactites,1
+genus,Ematurga,1
+genus,Episyrphus,1
+genus,Emberiza,1
+genus,Fumaria,1
+genus,Euodynerus,1
+genus,Exhyalanthrax,1
+genus,Ficus,1
+genus,Halimione,1
+genus,Halocynthia,1
+genus,Palaemon,1
+genus,Eupeodes,1
+genus,Palpita,1
+genus,Neocrepidodera,1
+genus,Hippopodius,1
+genus,Hildenbrandia,1
+genus,Obelia,1
+genus,Nomada,1
+genus,Noctua,1
+genus,Hodebertia,1
+genus,Olea,1
+genus,Odynerus,1
+genus,Ocenebra,1
+genus,Glareola,1
+genus,Kalanchoe,1
+genus,Morus,1
+genus,Monoplex,1
+genus,Moerella,1
+genus,Mirabilis,1
+genus,Mucor,1
+genus,Myrmilla,1
+genus,Hexanchus,1
+genus,Heliothis,1
+genus,Heptranchias,1
+genus,Pinctada,1
+genus,Echinolittorina,1
+genus,Corbicula,1
+genus,Crataegus,1
+genus,Cratena,1
+genus,Crematogaster,1
+genus,Chrysolina,1
+genus,Porcellana,1
+genus,Podiceps,1
+genus,Populus,1
+genus,Pleurobranchus,1
+genus,Phyllomorpha,1
+genus,Cutandia,1
+genus,Pisaura,1
+genus,Cyrtophora,1
+genus,Cutleria,1
+genus,Phragmites,1
+genus,Diplosoma,1
+genus,Dysdera,1
+genus,Echinaster,1
+genus,Donacilla,1
+genus,Distichlis,1
+genus,Calonectris,1
+genus,Calliphora,1
+genus,Scrobicularia,1
+genus,Scarabaeus,1
+genus,Saccharum,1
+genus,Chelophyes,1
+genus,Chlidonias,1
+genus,Rubus,1
+genus,Chama,1
+genus,Ceylalictus,1
+genus,Cetonia,1
+genus,Charonia,1
+genus,Cisticola,1
+genus,Puffinus,1
+genus,Centrophorus,1
+genus,Cerceris,1
+genus,Cicada,1
+genus,Citrullus,1
+genus,Prionyx,1
+genus,Cochlicella,1
+genus,Clitocybe,1
+genus,Spilostethus,1
+genus,Bittium,1
+genus,Bivetiella,1
+genus,Brassica,1
+genus,Berteroa,1
+genus,Sphex,1
+genus,Carex,1
+genus,Senecio,1
+genus,Carpocoris,1
+genus,Celastrina,1
+genus,Scyphophorus,1
+genus,Austrocylindropuntia,1
+genus,Aricia,1
+genus,Sylvia,1
+genus,Burhinus,1
+genus,Spondylus,1
+genus,Stenotaphrum,1
+genus,Sterna,1
+genus,Stomorhina,1
+genus,Spodoptera,1
+genus,Solecurtus,1
+genus,Soda,1
+genus,Tetramorium,1
+genus,Thereva,1
+genus,Taraxacum,1
+genus,Berghia,1
+genus,Barbatia,1
+genus,Ardeola,1
+genus,Aporodes,1
+genus,Aphis,1
+genus,Anoxia,1
+genus,Thyridanthrax,1
+genus,Tituboea,1
+genus,Aloe,1
+genus,Alcedo,1
+genus,Anisoplia,1
+genus,Anilocra,1
+genus,Andrena,1
+genus,Amphiledorus,1
+genus,Trifolium,1
+genus,Tracheliodes,1
+genus,Turritella,1
+genus,Uresiphita,1
+species,Acanthocardia tuberculata,112
+species,Spisula subtruncata,110
+species,Velella velella,99
+species,Stramonita haemastoma,91
+species,Paracentrotus lividus,82
+species,Ichthyaetus audouinii,77
+species,Echinophora spinosa,75
+species,Sepia officinalis,70
+species,Pancratium maritimum,63
+species,Cakile maritima,57
+species,Pelagia noctiluca,55
+species,Mytilus galloprovincialis,54
+species,Posidonia oceanica,53
+species,Ellisolandia elongata,49
+species,Falco tinnunculus,48
+species,Oenothera glazioviana,47
+species,Arbacia lixula,47
+species,Eryngium maritimum,45
+species,Rhizostoma pulmo,45
+species,Agave americana,45
+species,Medicago marina,45
+species,Gazania rigens,44
+species,Phalacrocorax carbo,43
+species,Anemonia viridis,43
+species,Phoenicurus ochruros,42
+species,Padina pavonica,36
+species,Calystegia soldanella,36
+species,Charadrius alexandrinus,36
+species,Perforatus perforatus,35
+species,Chamelea gallina,32
+species,Lotus creticus,32
+species,Patella caerulea,32
+species,Gulosus aristotelis,32
+species,Dictyota dichotoma,32
+species,Larus michahellis,30
+species,Ammophila arenaria,29
+species,Pachygrapsus marmoratus,29
+species,Brithys crini,28
+species,Arctotheca calendula,28
+species,Donax trunculus,27
+species,Schizoporella errata,25
+species,Heteracris littoralis,25
+species,Passer domesticus,24
+species,Carpobrotus edulis,23
+species,Buteo buteo,22
+species,Ensis minor,22
+species,Octopus vulgaris,22
+species,Centaurea aspera,20
+species,Podarcis liolepis,20
+species,Sympetrum fonscolombii,20
+species,Motacilla alba,19
+species,Pontia daplidice,19
+species,Erithacus rubecula,19
+species,Crithmum maritimum,19
+species,Apis mellifera,19
+species,Salsola kali,18
+species,Saxicola rubicola,18
+species,Calidris alba,18
+species,Glycymeris glycymeris,18
+species,Lithophyllum incrustans,18
+species,Eriphia verrucosa,17
+species,Lobularia maritima,17
+species,Colpomenia sinuosa,16
+species,Dittrichia viscosa,16
+species,Pieris rapae,16
+species,Cotylorhiza tuberculata,16
+species,Branchiomma luctuosum,16
+species,Vanessa cardui,15
+species,Malcolmia littorea,15
+species,Pennaria disticha,15
+species,Aiptasia couchii,15
+species,Callinectes sapidus,15
+species,Thalasseus sandvicensis,15
+species,Polygonum maritimum,14
+species,Egretta garzetta,14
+species,Sphingonotus caerulans,14
+species,Scyliorhinus canicula,14
+species,Arundo donax,14
+species,Polyommatus icarus,13
+species,Lophyra flexuosa,13
+species,Lasiommata megera,13
+species,Cyperus capitatus,13
+species,Rhodanthidium sticticum,13
+species,Chorthippus jacobsi,13
+species,Vespa velutina,13
+species,Lantana camara,13
+species,Silene nicaeensis,12
+species,Erodius emondi,12
+species,Yucca aloifolia,12
+species,Paronychia argentea,12
+species,Ononis natrix,11
+species,Plegadis falcinellus,11
+species,Glycymeris bimaculata,11
+species,Tachybaptus ruficollis,11
+species,Oculina patagonica,11
+species,Sporobolus pungens,11
+species,Patella rustica,11
+species,Coccinella septempunctata,11
+species,Amathia verticillata,11
+species,Carduelis carduelis,11
+species,Curruca melanocephala,11
+species,Bombus terrestris,10
+species,Asparagopsis taxiformis,10
+species,Ichthyaetus melanocephalus,10
+species,Carcinus aestuarii,10
+species,Oryctolagus cuniculus,10
+species,Colias croceus,10
+species,Leptotes pirithous,10
+species,Juncus acutus,10
+species,Aporrhais pespelecani,10
+species,Psammodromus edwardsianus,10
+species,Serinus serinus,10
+species,Pica pica,10
+species,Echinocardium cordatum,10
+species,Sepia orbignyana,10
+species,Tarentola mauritanica,10
+species,Ostrea edulis,10
+species,Pirimela denticulata,9
+species,Fulica atra,9
+species,Asparagus acutifolius,9
+species,Mactra stultorum,9
+species,Cymbulia peronii,9
+species,Chloris chloris,9
+species,Pyrgomorpha conica,9
+species,Myoporum laetum,9
+species,Cortaderia selloana,9
+species,Lepas pectinata,9
+species,Naticarius hebraeus,8
+species,Danaus chrysippus,8
+species,Himantopus himantopus,8
+species,Scarites buparius,8
+species,Thymelaea hirsuta,8
+species,Upupa epops,8
+species,Matthiola sinuata,8
+species,Acrotylus insubricus,8
+species,Elymus farctus,8
+species,Pecten jacobaeus,8
+species,Graphosoma italicum,8
+species,Anthus pratensis,8
+species,Theba pisana,8
+species,Glycymeris nummaria,7
+species,Anomia ephippium,7
+species,Taonia atomaria,7
+species,Ambrosia psilostachya,7
+species,Lepas anatifera,7
+species,Percnon gibbesi,7
+species,Podalonia tydei,7
+species,Phylloscopus collybita,7
+species,Arca noae,7
+species,Columba livia,7
+species,Chroicocephalus ridibundus,7
+species,Felis catus,7
+species,Sonchus tenerrimus,7
+species,Urospermum dalechampii,6
+species,Euphorbia terracina,6
+species,Zygaena trifolii,6
+species,Actinia mediterranea,6
+species,Coscinasterias tenuispina,6
+species,Xylocopa violacea,6
+species,Malpolon monspessulanus,6
+species,Donax semistriatus,6
+species,Plantago lagopus,6
+species,Gegenes nostrodamus,6
+species,Tritia mutabilis,6
+species,Oedipoda caerulescens,6
+species,Graphosoma semipunctatum,6
+species,Myiopsitta monachus,6
+species,Helicoverpa armigera,6
+species,Bembix oculata,6
+species,Pittosporum tobira,6
+species,Galerida cristata,6
+species,Alca torda,6
+species,Pyrrhocoris apterus,6
+species,Sturnus vulgaris,6
+species,Spoladea recurvalis,5
+species,Callista chione,5
+species,Cenchrus longisetus,5
+species,Tringa nebularia,5
+species,Vanessa atalanta,5
+species,Marcus-kochia littorea,5
+species,Psilothrix viridicoerulea,5
+species,Hirundo rustica,5
+species,Anser anser,5
+species,Vespula germanica,5
+species,Neverita josephinia,5
+species,Crucianella maritima,5
+species,Cenchrus spinifex,5
+species,Xanthium orientale,5
+species,Phorcus turbinatus,5
+species,Trithemis annulata,5
+species,Carcharodus alceae,5
+species,Aiolopus puissanti,5
+species,Ulva rigida,5
+species,Oedemera nobilis,5
+species,Circus aeruginosus,5
+species,Oxalis pes-caprae,5
+species,Hyles euphorbiae,5
+species,Halopteris scoparia,5
+species,Aequorea forskalea,5
+species,Euphorbia paralias,5
+species,Actitis hypoleucos,5
+species,Cydnus aterrimus,4
+species,Tursiops truncatus,4
+species,Peronaea planata,4
+species,Phallusia mammillata,4
+species,Lanius senator,4
+species,Medicago littoralis,4
+species,Eobania vermiculata,4
+species,Lampides boeticus,4
+species,Chthamalus stellatus,4
+species,Cerithium vulgatum,4
+species,Gonepteryx cleopatra,4
+species,Pinus halepensis,4
+species,Jania rubens,4
+species,Sarcotragus spinosulus,4
+species,Anax parthenope,4
+species,Bolinus brandaris,4
+species,Semicassis undulata,4
+species,Upogebia pusilla,4
+species,Synema globosum,4
+species,Phoenicopterus roseus,4
+species,Ardea ibis,4
+species,Turritellinella tricarinata,4
+species,Jania virgata,4
+species,Felimare picta,4
+species,Asphodelus fistulosus,4
+species,Scabiosa atropurpurea,4
+species,Nomophila noctuella,4
+species,Cymodocea nodosa,4
+species,Coptocephala unifasciata,3
+species,Aglaophenia pluma,3
+species,Collozoum inerme,3
+species,Colpa sexmaculata,3
+species,Solen marginatus,3
+species,Aurelia aurita,3
+species,Numenius phaeopus,3
+species,Papilio machaon,3
+species,Freesia leichtlinii,3
+species,Ricinus communis,3
+species,Chrysotoxum cautum,3
+species,Ardea cinerea,3
+species,Rhynchium oculatum,3
+species,Pistacia lentiscus,3
+species,Clibanarius erythropus,3
+species,Mareca strepera,3
+species,Portumnus latipes,3
+species,Cliona celata,3
+species,Autographa gamma,3
+species,Gallinula chloropus,3
+species,Linaria cannabina,3
+species,Calcinus tubularis,3
+species,Scirpoides holoschoenus,3
+species,Donax venustus,3
+species,Apus apus,3
+species,Lagurus ovatus,3
+species,Mimachlamys varia,3
+species,Crocothemis erythraea,3
+species,Eurydema ornata,3
+species,Stenella coeruleoalba,3
+species,Hogna radiata,3
+species,Holothuria tubulosa,3
+species,Oryctes nasicornis,3
+species,Ficedula hypoleuca,3
+species,Anacridium aegyptium,3
+species,Oxythyrea funesta,3
+species,Hexaplex trunculus,2
+species,Callophrys rubi,2
+species,Convolvulus arvensis,2
+species,Aythya ferina,2
+species,Sporobolus virginicus,2
+species,Suillus collinitus,2
+species,Pluvialis squatarola,2
+species,Calliptamus barbarus,2
+species,Euphorbia peplis,2
+species,Cynanchum acutum,2
+species,Delichon urbicum,2
+species,Cerastoderma edule,2
+species,Macronemurus appendiculatus,2
+species,Sympetrum striolatum,2
+species,Iris oratoria,2
+species,Todarodes sagittatus,2
+species,Rhodometra sacraria,2
+species,Estrilda astrild,2
+species,Pinna nobilis,2
+species,Mactra glauca,2
+species,Oestergrenia digitata,2
+species,Motacilla cinerea,2
+species,Apus melba,2
+species,Hieraaetus pennatus,2
+species,Thaumetopoea pityocampa,2
+species,Lucilia sericata,2
+species,Tribulus terrestris,2
+species,Orthetrum cancellatum,2
+species,Grammodes stolida,2
+species,Bassia scoparia,2
+species,Coracias garrulus,2
+species,Passer montanus,2
+species,Mercurialis annua,2
+species,Acanthocardia aculeata,2
+species,Ptyonoprogne rupestris,2
+species,Retama monosperma,2
+species,Acrida ungarica,2
+species,Ammophila sabulosa,2
+species,Arge ochropus,2
+species,Trachemys scripta,2
+species,Bosemprella incarnata,2
+species,Columba palumbus,2
+species,Atriplex portulacoides,2
+species,Suaeda maritima,2
+species,Ischnura elegans,2
+species,Charadrius dubius,2
+species,Donax variegatus,2
+species,Helichrysum stoechas,2
+species,Nyctophila reichii,2
+species,Rhodanthidium septemdentatum,2
+species,Pseudorlaya pumila,2
+species,Janthina janthina,2
+species,Xysticus cristatus,2
+species,Salicornia europaea,2
+species,Tadorna tadorna,2
+species,Utetheisa pulchella,2
+species,Chlorophorus varius,2
+species,Phyllognathus excavatus,2
+species,Ardea alba,2
+species,Isodontia mexicana,2
+species,Pandion haliaetus,2
+species,Gryllus bimaculatus,2
+species,Dictyota spiralis,2
+species,Yucca gloriosa,2
+species,Bembix olivacea,2
+species,Megascolia maculata,2
+species,Macroglossum stellatarum,2
+species,Bromus diandrus,2
+species,Tamarix africana,2
+species,Acanthonyx lunulatus,2
+species,Codium vermilara,2
+species,Fissurella nubecula,2
+species,Portulaca oleracea,2
+species,Cenchrus incertus,2
+species,Diogenes pugilator,2
+species,Papaver rhoeas,2
+species,Rhombosepion elegans,2
+species,Rhagonycha fulva,2
+species,Glaucium flavum,2
+species,Pinus pinea,2
+species,Cereus pedunculatus,2
+species,Muscicapa striata,2
+species,Lycaena phlaeas,1
+species,Eristalis tenax,1
+species,Pisaura mirabilis,1
+species,Daucus carota,1
+species,Laevicardium crassum,1
+species,Balanus crenatus,1
+species,Loripes lacteus,1
+species,Nemka viduata,1
+species,Ardeola ralloides,1
+species,Prionyx kirbii,1
+species,Cyrtophora citricola,1
+species,Lissoclinum weigelei,1
+species,Halocynthia papillosa,1
+species,Salicornia fruticosa,1
+species,Monoplex corrugatus,1
+species,Erodium malacoides,1
+species,Moerella donacina,1
+species,Ocenebra erinaceus,1
+species,Cochlicella conoidea,1
+species,Charadrius hiaticula,1
+species,Sceliphron destillatorium,1
+species,Phylloscopus sibilatrix,1
+species,Lucilia caesar,1
+species,Anoxia australis,1
+species,Bittium reticulatum,1
+species,Crataegus monogyna,1
+species,Acrocephalus arundinaceus,1
+species,Aricia cramera,1
+species,Uresiphita gilvata,1
+species,Phoenix canariensis,1
+species,Pleurobranchus testudinarius,1
+species,Olea europaea,1
+species,Plantago coronopus,1
+species,Austrocylindropuntia cylindrica,1
+species,Opuntia stricta,1
+species,Aloe vera,1
+species,Exhyalanthrax muscarius,1
+species,Astropecten irregularis,1
+species,Dysdera crocata,1
+species,Agrius convolvuli,1
+species,Anisoplia baetica,1
+species,Carpobrotus acinaciformis,1
+species,Cicada orni,1
+species,Glareola pratincola,1
+species,Nomada agrestis,1
+species,Daucus pumilus,1
+species,Scyphophorus acupunctatus,1
+species,Chama gryphoides,1
+species,Amphiledorus balnearius,1
+species,Eupeodes corollae,1
+species,Tituboea sexmaculata,1
+species,Idotea metallica,1
+species,Macrolenes dentipes,1
+species,Linepithema humile,1
+species,Scarabaeus semipunctatus,1
+species,Phallusia fumigata,1
+species,Venus verrucosa,1
+species,Cyperus articulatus,1
+species,Hyparrhenia hirta,1
+species,Solanum nigrum,1
+species,Aphis fabae,1
+species,Calidris alpina,1
+species,Parabatozonus lacerticida,1
+species,Vulpes vulpes,1
+species,Diplosoma spongiforme,1
+species,Actinia striata,1
+species,Ensis ensis,1
+species,Clitocybe rivulosa,1
+species,Berteroa incana,1
+species,Melilotus albus,1
+species,Loligo vulgaris,1
+species,Larus fuscus,1
+species,Alcedo atthis,1
+species,Melarhaphe neritoides,1
+species,Aplysia depilans,1
+species,Tringa totanus,1
+species,Codium bursa,1
+species,Centaurea polyacantha,1
+species,Echium sabulicola,1
+species,Hordeum murinum,1
+species,Aetheorrhiza bulbosa,1
+species,Asphodelus ramosus,1
+species,Scrobicularia plana,1
+species,Chlidonias hybrida,1
+species,Porcellana platycheles,1
+species,Aetheorhiza bulbosa,1
+species,Spilostethus pandurus,1
+species,Cistus salviifolius,1
+species,Barbatia barbata,1
+species,Ulva lactuca,1
+species,Myoporum tenuifolium,1
+species,Eristalinus sepulchralis,1
+species,Phyllomorpha laciniata,1
+species,Ligia italica,1
+species,Sarcophaga carnaria,1
+species,Ematurga atomaria,1
+species,Sylvia atricapilla,1
+species,Podiceps cristatus,1
+species,Saccharum ravennae,1
+species,Cistus albidus,1
+species,Halimione portulacoides,1
+species,Pinctada radiata,1
+species,Cutandia maritima,1
+species,Solanum villosum,1
+species,Fumaria officinalis,1
+species,Parus major,1
+species,Aegithalos caudatus,1
+species,Lasius niger,1
+species,Circus pygargus,1
+species,Anthus spinoletta,1
+species,Cetonia aurata,1
+species,Veretillum cynomorium,1
+species,Galactites tomentosus,1
+species,Ficus carica,1
+species,Spodoptera littoralis,1
+species,Medicago sativa,1
+species,Centaurea seridis,1
+species,Senecio vulgaris,1
+species,Hippopodius hippopus,1
+species,Spondylus gaederopus,1
+species,Vanellus vanellus,1
+species,Burhinus oedicnemus,1
+species,Calliphora vicina,1
+species,Erucastrum nasturtiifolium,1
+species,Washingtonia robusta,1
+species,Brassica fruticulosa,1
+species,Distichlis spicata,1
+species,Trifolium repens,1
+species,Ononis ramosissima,1
+species,Sonchus oleraceus,1
+species,Echinaster sepositus,1
+species,Bivetiella cancellata,1
+species,Thyridanthrax perspicillaris,1
+species,Kalanchoe daigremontiana,1
+species,Phragmites australis,1
+species,Eyprepocnemis plorans,1
+species,Centrophorus granulosus,1
+species,Mirabilis jalapa,1
+species,Palpita vitrealis,1
+species,Hodebertia testalis,1
+species,Hydroprogne caspia,1
+species,Cerceris arenaria,1
+species,Villa hottentotta,1
+species,Patella ulyssiponensis,1
+species,Cratena peregrina,1
+species,Podarcis hispanicus,1
+species,Episyrphus balteatus,1
+species,Heliothis peltigera,1
+species,Phaneroptera nana,1
+species,Noctua pronuba,1
+species,Agrotis segetum,1
+species,Sterna hirundo,1
+species,Soda inermis,1
+species,Mantis religiosa,1
+species,Harmonia quadripunctata,1
+species,Palaemon elegans,1
+species,Corbicula fluminea,1
+species,Mactra corallina,1
+species,Citrullus lanatus,1
+species,Aeluropus littoralis,1
+species,Crematogaster scutellaris,1
+species,Polygonum arenastrum,1
+species,Microphthalma europaea,1
+species,Magallana gigas,1
+species,Limacella furnacea,1
+species,Agaricus bitorquis,1
+species,Polistes dominula,1
+species,Curruca cantillans,1
+species,Aiptasia mutabilis,1
+species,Lithophaga lithophaga,1
+species,Chelophyes contorta,1
+species,Watersipora cucullata,1
+species,Berghia coerulescens,1
+species,Anilocra frontalis,1
+species,Janthina globosa,1
+species,Amphiroa rigida,1
+species,Echinolittorina punctata,1
+species,Holothuria poli,1
+species,Acrocephalus scirpaceus,1
+species,Odynerus spinipes,1
+species,Iphiclides feisthamelii,1
+species,Stenotaphrum secundatum,1
+species,Emberiza cirlus,1
+species,Calonectris diomedea,1
+species,Puffinus yelkouan,1
+species,Morus bassanus,1
+species,Heptranchias perlo,1
+species,Eristalinus taeniops,1
+species,Ceylalictus variegatus,1
+species,Tracheliodes quinquenotatus,1
+species,Harmonia axyridis,1
+species,Psammodromus algirus,1
+species,Phoenicurus phoenicurus,1
+species,Stomorhina lunata,1
+species,Neocrepidodera ferruginea,1
+species,Carpocoris mediterraneus,1
+species,Bombus pascuorum,1
+species,Solecurtus strigilatus,1
+species,Aporodes floralis,1
+species,Lepista sordida,1
+species,Anax imperator,1
+species,Balanus trigonus,1
+species,Achurum carinatum,1
+species,Myrmilla calva,1
+species,Macroscytus brunneus,1
+species,Hexanchus griseus,1
+species,Tropinota squalida,1
+species,Celastrina argiolus,1
+species,Echium vulgare,1
+species,Carduelis cannabina,1
+species,Hydrocoloeus minutus,1
+species,Cutleria adspersa,1
+species,Echium plantagineum,1
+species,Sceliphron spirifex,1
+species,Donacilla cornea,1
+species,Cisticola juncidis,1
