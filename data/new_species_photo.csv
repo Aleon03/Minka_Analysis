@@ -1,17 +1,15 @@
-taxon_name,observed_on,user_login,photos_medium_url
-Episyrphus balteatus,2025-04-04,mediambient_ajelprat,https://minka-sdg.org/attachments/local_photos/files/581293/medium.jpeg
-Cydnus aterrimus,2025-04-04,mediambient_ajelprat,https://minka-sdg.org/attachments/local_photos/files/581295/medium.jpeg
-Calidris alpina,2025-04-04,mediambient_ajelprat,https://minka-sdg.org/attachments/local_photos/files/581306/medium.jpeg
-Papaver rhoeas,2025-04-07,mediambient_ajelprat,https://minka-sdg.org/attachments/local_photos/files/581334/medium.jpeg
-Aegithalos caudatus,2025-04-07,mediambient_ajelprat,https://minka-sdg.org/attachments/local_photos/files/581314/medium.jpeg
-Oxythyrea funesta,2025-04-27,annacanela,https://minka-sdg.org/attachments/local_photos/files/600930/medium.jpg
-Aloe vera,2025-04-28,xasalva,https://minka-sdg.org/attachments/local_photos/files/602799/medium.jpeg
-Opuntia stricta,2025-04-28,xasalva,https://minka-sdg.org/attachments/local_photos/files/602800/medium.jpeg
-Marcus-kochia littorea,2025-04-28,xasalva,https://minka-sdg.org/attachments/local_photos/files/602804/medium.jpeg
-Austrocylindropuntia cylindrica,2025-04-28,xasalva,https://minka-sdg.org/attachments/local_photos/files/602802/medium.jpeg
-Plantago coronopus,2025-04-28,xasalva,https://minka-sdg.org/attachments/local_photos/files/602809/medium.jpeg
-Exhyalanthrax muscarius,2025-04-28,xasalva,https://minka-sdg.org/attachments/local_photos/files/602779/medium.jpeg
-Carpobrotus acinaciformis,2025-04-28,xasalva,https://minka-sdg.org/attachments/local_photos/files/602714/medium.jpeg
-Olea europaea,2025-04-28,xasalva,https://minka-sdg.org/attachments/local_photos/files/602814/medium.jpeg
-Nomada agrestis,2025-04-28,xasalva,https://minka-sdg.org/attachments/local_photos/files/602705/medium.jpeg
-Daucus pumilus,2025-04-28,xasalva,https://minka-sdg.org/attachments/local_photos/files/602666/medium.jpeg
+taxon_name,observed_on,user_login,photos_medium_url,attribution,obs_url
+Streptopelia turtur,2025-05-13,mediambient_ajelprat,https://minka-sdg.org/attachments/local_photos/files/613686/medium.jpeg,"(c) mediambient_ajelprat, some rights reserved (CC BY-NC)",https://minka-sdg.org/observations/455105
+Matthiola incana,2025-05-13,amb_platges,https://minka-sdg.org/attachments/local_photos/files/612871/medium.jpeg,"(c) AMB Platges, some rights reserved (CC BY)",https://minka-sdg.org/observations/454457
+Petrosedum sediforme,2025-05-15,amb_platges,https://minka-sdg.org/attachments/local_photos/files/613160/medium.jpeg,"(c) AMB Platges, some rights reserved (CC BY)",https://minka-sdg.org/observations/454767
+Otala punctata,2025-05-26,xasalva,https://minka-sdg.org/attachments/local_photos/files/620772/medium.jpeg,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",https://minka-sdg.org/observations/460169
+Beosus maritimus,2025-05-26,xasalva,https://minka-sdg.org/attachments/local_photos/files/620773/medium.jpeg,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",https://minka-sdg.org/observations/460170
+Elaeagnus angustifolia,2025-05-26,xasalva,https://minka-sdg.org/attachments/local_photos/files/620743/medium.jpeg,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",https://minka-sdg.org/observations/460147
+Euchloe crameri,2025-05-26,amb_platges,https://minka-sdg.org/attachments/local_photos/files/621376/medium.jpeg,"(c) AMB Platges, some rights reserved (CC BY)",https://minka-sdg.org/observations/460659
+Euodynerus variegatus,2025-05-26,xasalva,https://minka-sdg.org/attachments/local_photos/files/620779/medium.jpeg,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",https://minka-sdg.org/observations/460174
+Plutella xylostella,2025-05-26,xasalva,https://minka-sdg.org/attachments/local_photos/files/620793/medium.jpeg,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",https://minka-sdg.org/observations/460183
+Metrosideros excelsa,2025-05-26,xasalva,https://minka-sdg.org/attachments/local_photos/files/620797/medium.jpeg,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",https://minka-sdg.org/observations/460186
+Philanthus triangulum,2025-05-26,xasalva,https://minka-sdg.org/attachments/local_photos/files/620801/medium.jpeg,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",https://minka-sdg.org/observations/460191
+Eatoniana plumipes,2025-05-26,xasalva,https://minka-sdg.org/attachments/local_photos/files/620739/medium.jpeg,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",https://minka-sdg.org/observations/460145
+Lysimachia arvensis,2025-05-26,cris1954,https://minka-sdg.org/attachments/local_photos/files/620620/medium.jpg,"(c) cris1954, some rights reserved (CC BY)",https://minka-sdg.org/observations/460007
+Dicranocephalus albipes,2025-05-26,xasalva,https://minka-sdg.org/attachments/local_photos/files/620722/medium.jpeg,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",https://minka-sdg.org/observations/460130
