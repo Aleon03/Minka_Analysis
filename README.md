@@ -1,10 +1,10 @@
 <center>
 <img src="images/embimos-positivo.png" width="400">
+</center>
 
 <center>
-<img src="images/minka-logo.png"  width="400">
-
-
+<img src="images/minka-logo.png" width="400">
+</center>
 
 # Proyecto Minka - Generador de Informes Mensuales
 
