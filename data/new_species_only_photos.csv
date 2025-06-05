@@ -1,0 +1,343 @@
+id,photos_id,iconic_taxon,taxon_name,photos_medium_url,user_login,latitude,longitude,license_photo,attribution,path,abs_path
+489316,634728,insecta,Anthophora bimaculata,https://minka-sdg.org/attachments/local_photos/files/634728/medium.jpeg,xasalva,41.2840039754,2.0954193196,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",489316_634728.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+489246,634640,insecta,Nezara viridula,https://minka-sdg.org/attachments/local_photos/files/634640/medium.jpg,laia_raurich,41.28396,2.0955732,cc-by,"(c) Laia Raurich, some rights reserved (CC BY)",489246_634640.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+460659,621384,insecta,Euchloe crameri,https://minka-sdg.org/attachments/local_photos/files/621384/medium.jpeg,amb_platges,41.4182380087,2.2323301435,cc-by,"(c) AMB Platges, some rights reserved (CC BY)",460659_621384.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+460191,620801,insecta,Philanthus triangulum,https://minka-sdg.org/attachments/local_photos/files/620801/medium.jpeg,xasalva,41.265027492,1.9828096032,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",460191_620801.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+460186,620797,plantae,Metrosideros excelsa,https://minka-sdg.org/attachments/local_photos/files/620797/medium.jpeg,xasalva,41.265027492,1.9828096032,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",460186_620797.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+460183,620793,insecta,Plutella xylostella,https://minka-sdg.org/attachments/local_photos/files/620793/medium.jpeg,xasalva,41.2650048974,1.9855773119,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",460183_620793.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+460174,620778,insecta,Euodynerus variegatus,https://minka-sdg.org/attachments/local_photos/files/620778/medium.jpeg,xasalva,41.2650109411,1.9863233602,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",460174_620778.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+460170,620773,insecta,Beosus maritimus,https://minka-sdg.org/attachments/local_photos/files/620773/medium.jpeg,xasalva,41.2650109411,1.9863233602,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",460170_620773.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+460169,620772,mollusca,Otala punctata,https://minka-sdg.org/attachments/local_photos/files/620772/medium.jpeg,xasalva,41.2650109411,1.9863233602,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",460169_620772.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+460147,620743,plantae,Elaeagnus angustifolia,https://minka-sdg.org/attachments/local_photos/files/620743/medium.jpeg,xasalva,41.2649609604,1.9880372438,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",460147_620743.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+460145,620737,arachnida,Eatoniana plumipes,https://minka-sdg.org/attachments/local_photos/files/620737/medium.jpeg,xasalva,41.2649609604,1.9880372438,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",460145_620737.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+460130,620722,insecta,Dicranocephalus albipes,https://minka-sdg.org/attachments/local_photos/files/620722/medium.jpeg,xasalva,41.2650153885,1.9907596777,cc-by-nc,"(c) xavi salvador costa, some rights reserved (CC BY-NC)",460130_620722.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+460007,620620,plantae,Lysimachia arvensis,https://minka-sdg.org/attachments/local_photos/files/620620/medium.jpg,cris1954,41.2650082316,1.988838328,cc-by,"(c) cris1954, some rights reserved (CC BY)",460007_620620.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+459565,619997,insecta,Hoplia coerulea,https://minka-sdg.org/attachments/local_photos/files/619997/medium.jpg,giuliponcee,41.2662966667,2.0180945,cc-by,"(c) giuliana ponce, some rights reserved (CC BY)",459565_619997.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+459557,619987,plantae,Helichrysum arenarium,https://minka-sdg.org/attachments/local_photos/files/619987/medium.jpg,giuliponcee,41.2667166667,2.0187388333,cc-by,"(c) giuliana ponce, some rights reserved (CC BY)",459557_619987.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+455105,613686,aves,Streptopelia turtur,https://minka-sdg.org/attachments/local_photos/files/613686/medium.jpeg,mediambient_ajelprat,41.278583003,2.0802354813,cc-by-nc,"(c) mediambient_ajelprat, some rights reserved (CC BY-NC)",455105_613686.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+454767,613160,plantae,Petrosedum sediforme,https://minka-sdg.org/attachments/local_photos/files/613160/medium.jpeg,amb_platges,41.2695277778,2.0391222222,cc-by,"(c) AMB Platges, some rights reserved (CC BY)",454767_613160.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"
+454457,612871,plantae,Matthiola incana,https://minka-sdg.org/attachments/local_photos/files/612871/medium.jpeg,amb_platges,41.4179194444,2.2322194444,cc-by,"(c) AMB Platges, some rights reserved (CC BY)",454457_612871.jpg,"C:\Users\alexl\.conda\Minka_Analysis\minka_photos\16     489316_634728.jpg
+25     489246_634640.jpg
+50     460659_621384.jpg
+59     460191_620801.jpg
+65     460186_620797.jpg
+66     460183_620793.jpg
+70     460174_620778.jpg
+75     460170_620773.jpg
+76     460169_620772.jpg
+92     460147_620743.jpg
+95     460145_620737.jpg
+107    460130_620722.jpg
+121    460007_620620.jpg
+145    459565_619997.jpg
+151    459557_619987.jpg
+171    455105_613686.jpg
+188    454767_613160.jpg
+208    454457_612871.jpg
+Name: path, dtype: object"

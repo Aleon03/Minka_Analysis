@@ -1,0 +1,18 @@
+name: minka_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8
+  - pandas>=1.3.0
+  - requests>=2.26.0
+  - matplotlib>=3.4.0
+  - folium=0.12.0
+  - pillow=8.3.0
+  - python-docx=0.8.10
+  - pip
+  - pip:
+    - mecoda-minka=1.0.0
+
+
+
